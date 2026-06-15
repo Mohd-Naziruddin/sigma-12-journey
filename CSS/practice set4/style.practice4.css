@@ -18,18 +18,31 @@ a{
 #div1{
     height: 100px;
     width: 100px;
-    border:dotted cornflowerblue;
+    border: 2px solid cornflowerblue;
     background-color: rgba(255, 0, 0, 0.5);
+    display: inline-block;
 }
 #div2{
     height: 100px;
     width: 100px;
-    border: dashed cornflowerblue;
+    border: 2px dashed cornflowerblue;
     background-color: rgba(0, 255, 0, 0.5);
+    display: inline-block;
 }
 #div3{
     height: 100px;
     width: 100px;
-    border: solid cornflowerblue;
+    border: 2px solid cornflowerblue;
     background-color: rgba(0, 0, 255, 0.5);
+    display: inline-block;
+}
+main{
+    height: 600px;
+}
+    
+footer {
+    background-color: rgba(235, 89, 5, 0.287);
+}
+#div1, #div2, #div3 {
+    vertical-align: top;
 }
