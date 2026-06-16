@@ -1,0 +1,11 @@
+div{
+    height: 100px;
+    width: 200px;
+    color:rgb(52, 144, 13);
+    background-image:url(nature_bg.jpg);
+    background-size: cover;
+    text-align: center;
+    position:fixed;
+    right: 0px;
+    
+}
