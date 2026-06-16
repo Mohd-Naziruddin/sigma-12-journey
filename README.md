@@ -15,3 +15,4 @@ Started: June 2026
 #### Week 2 — CSS
 - [x] Day 1 & 2 Level 1 — syntax, colors, background-color, color system, color pallet, selectors, text properties, units, practice sets 1 & 2
 - [x] Day 3 & 4 Level 2 — box model, height, width, border, padding, margin,practice set 3, display, visibility, alpha(opacity), practice set 4
+- [x] Day 5 Level 3 — units(%,em,rem,vh,vw), position (static, relative, absolute, fixed, sticky), z-index, background images, practice set 5
