@@ -16,4 +16,4 @@ Started: June 2026
 - [x] Day 1 & 2 Level 1 — syntax, colors, background-color, color system, color pallet, selectors, text properties, units, practice sets 1 & 2
 - [x] Day 3 & 4 Level 2 — box model, height, width, border, padding, margin, display, visibility, alpha(opacity), practice set 3 & 4
 - [x] Day 5 Level 3 — units(%,em,rem,vh,vw), position (static, relative, absolute, fixed, sticky), z-index, background images, practice set 5
- Level 4 - flexbox, flex model, flexbox direction, flex container properties, flex item properties, Practice set 6
+- [x] Day 5 Level 4 - flexbox, flex model, flexbox direction, flex container properties, flex item properties,media queries, Practice set 6 & 7
