@@ -1,0 +1,20 @@
+div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: white;
+    border: 20px solid aqua;
+    border-top: 20px solid rgb(144, 210, 51);
+    transform: rotate(360deg);
+    animation-name: spinanimate;
+    animation: spinanimate 2s linear 0s infinite ;
+}
+
+@keyframes spinanimate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
