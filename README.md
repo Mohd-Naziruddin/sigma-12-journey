@@ -18,3 +18,4 @@ Started: June 2026
 - [x] Day 5 Level 3 — units(%,em,rem,vh,vw), position (static, relative, absolute, fixed, sticky), z-index, background images, practice set 5
 - [x] Day 5 Level 4 - flexbox, flex model, flexbox direction, flex container properties, flex item properties,media queries, Practice set 6 & 7
 - [x] Day 6 Level 5 — transitions, transforms, animations, practice set 8
+- [x] CSS COMPLETE — built full Amazon clone project (navbar, hero, shop grid, footer)
