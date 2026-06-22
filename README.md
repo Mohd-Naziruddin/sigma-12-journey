@@ -19,3 +19,12 @@ Started: June 2026
 - [x] Day 5 Level 4 - flexbox, flex model, flexbox direction, flex container properties, flex item properties,media queries, Practice set 6 & 7
 - [x] Day 6 Level 5 — transitions, transforms, animations, practice set 8
 - [x] CSS COMPLETE — built full Amazon clone project (navbar, hero, shop grid, footer)
+
+
+
+### Week 3 — Bootstrap & Tailwind CSS
+
+- [x] Day 1   Bootstrap — grid system, buttons, cards, responsive navbar with hamburger collapse
+- [x] Day 2   Tailwind CSS CLI — Node.js setup, utility classes, spacing scale (4px units), sizing, centering with mx-auto
+
+
