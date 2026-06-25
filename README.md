@@ -28,3 +28,5 @@ Started: June 2026
 - [x] Day 2   Tailwind CSS CLI — Node.js setup, utility classes, spacing scale (4px units), sizing, centering with mx-auto
 
 
+### Week 4 — JavaScript
+- [x] Day 1 Variables & data types — primitives, objects, dot notation
